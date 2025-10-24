@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Thumbnail Editor",
+  "description": "An AI-powered thumbnail editor that allows users to edit images through a chat-based interface. Using Gemini, users can iteratively apply changes to their images with simple text prompts, optimized for 16:9 YouTube thumbnails.",
+  "requestFramePermissions": []
+}
